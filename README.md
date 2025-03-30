@@ -84,9 +84,17 @@ If you would like to contribute:
 - Fork the repository.
 - Create a feature branch.
 - Submit a pull request with a detailed explanation of your changes.
+  
+Team Members
 
-## License
-This project is licensed under the MIT License.
+Member 1 Shailendra Rai  - 
+
+Member 2 - Role
+
+Member 3 - Role
+
+Member 4 - Role
+
 
 ## Future Plans
 - Implement deep learning techniques for improved fraud detection.
@@ -94,6 +102,6 @@ This project is licensed under the MIT License.
 - Deploy the system using cloud services like AWS or Azure.
 
 ---
-**Author:** Your Name  
-**GitHub:** [YourUsername](https://github.com/yourusername)
+**Author:** Shailendra Rai
+**GitHub:** [YourUsername](https://github.com/rishurai123)
 
