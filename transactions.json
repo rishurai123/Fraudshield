@@ -1,0 +1,1004 @@
+{
+    "transactions": [
+        {
+            "transaction_id": 1,
+            "user_id": "jennifermolina",
+            "amount": 2724.09,
+            "transaction_type": "payment",
+            "merchant": "Stanley-Simmons",
+            "time": "2025-03-04T13:41:29.397168",
+            "location": "West Lindsaytown",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 2,
+            "user_id": "ruizjames",
+            "amount": 1252.59,
+            "transaction_type": "withdrawal",
+            "merchant": "Scott Inc",
+            "time": "2025-02-13T13:41:29.397938",
+            "location": "Margaretville",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 3,
+            "user_id": "scaldwell",
+            "amount": 1422.97,
+            "transaction_type": "withdrawal",
+            "merchant": "Byrd PLC",
+            "time": "2025-02-26T13:41:29.401149",
+            "location": "North Michaelmouth",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 4,
+            "user_id": "franciscobonilla",
+            "amount": 3134.54,
+            "transaction_type": "transfer",
+            "merchant": "Carr and Sons",
+            "time": "2025-03-05T13:41:29.401821",
+            "location": "Kingside",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 5,
+            "user_id": "wrose",
+            "amount": 266.22,
+            "transaction_type": "transfer",
+            "merchant": "Hawkins LLC",
+            "time": "2025-02-28T13:41:29.402392",
+            "location": "Coxville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 6,
+            "user_id": "wendy69",
+            "amount": 4933.84,
+            "transaction_type": "transfer",
+            "merchant": "Brooks, Reyes and Moore",
+            "time": "2025-02-22T13:41:29.403172",
+            "location": "East Richardfort",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 7,
+            "user_id": "christinahughes",
+            "amount": 2859.57,
+            "transaction_type": "transfer",
+            "merchant": "Mosley LLC",
+            "time": "2025-02-22T13:41:29.406350",
+            "location": "Valentineton",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 8,
+            "user_id": "rebecca08",
+            "amount": 3428.5,
+            "transaction_type": "transfer",
+            "merchant": "Escobar LLC",
+            "time": "2025-02-27T13:41:29.406891",
+            "location": "Sparksborough",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 9,
+            "user_id": "hhicks",
+            "amount": 1777.18,
+            "transaction_type": "payment",
+            "merchant": "Johnson, Shaw and Mcclure",
+            "time": "2025-02-24T13:41:29.413942",
+            "location": "Owensville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 10,
+            "user_id": "tspencer",
+            "amount": 2555.18,
+            "transaction_type": "payment",
+            "merchant": "Greene, Cook and Haney",
+            "time": "2025-02-16T13:41:29.414901",
+            "location": "New Leslieport",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 11,
+            "user_id": "linda72",
+            "amount": 2355.79,
+            "transaction_type": "payment",
+            "merchant": "Cooper and Sons",
+            "time": "2025-03-15T13:41:29.421566",
+            "location": "Charlesberg",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 12,
+            "user_id": "sanchezjesse",
+            "amount": 2508.72,
+            "transaction_type": "withdrawal",
+            "merchant": "Ramos-Jones",
+            "time": "2025-03-07T13:41:29.422467",
+            "location": "Hendersonshire",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 13,
+            "user_id": "robertchan",
+            "amount": 2533.47,
+            "transaction_type": "withdrawal",
+            "merchant": "Anderson PLC",
+            "time": "2025-02-20T13:41:29.423140",
+            "location": "Allisonshire",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 14,
+            "user_id": "ronnie56",
+            "amount": 2103.39,
+            "transaction_type": "withdrawal",
+            "merchant": "Marks Group",
+            "time": "2025-02-16T13:41:29.423669",
+            "location": "Kathleenhaven",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 15,
+            "user_id": "emily44",
+            "amount": 2797.88,
+            "transaction_type": "withdrawal",
+            "merchant": "Medina-Martinez",
+            "time": "2025-02-23T13:41:29.424327",
+            "location": "North Marie",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 16,
+            "user_id": "qblack",
+            "amount": 3049.41,
+            "transaction_type": "transfer",
+            "merchant": "Griffin, Walker and Harris",
+            "time": "2025-03-04T13:41:29.425117",
+            "location": "Melissaborough",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 17,
+            "user_id": "broy",
+            "amount": 3142.0,
+            "transaction_type": "transfer",
+            "merchant": "Bolton LLC",
+            "time": "2025-03-05T13:41:29.430828",
+            "location": "Michaelborough",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 18,
+            "user_id": "burkecrystal",
+            "amount": 4942.94,
+            "transaction_type": "transfer",
+            "merchant": "Ellis PLC",
+            "time": "2025-03-12T13:41:29.431536",
+            "location": "Sarahport",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 19,
+            "user_id": "walterstephens",
+            "amount": 499.36,
+            "transaction_type": "payment",
+            "merchant": "Day LLC",
+            "time": "2025-03-07T13:41:29.432169",
+            "location": "Schultzside",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 20,
+            "user_id": "elizabeth35",
+            "amount": 3076.23,
+            "transaction_type": "withdrawal",
+            "merchant": "Rogers-Valdez",
+            "time": "2025-02-14T13:41:29.436913",
+            "location": "South Robin",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 21,
+            "user_id": "xlong",
+            "amount": 3329.13,
+            "transaction_type": "payment",
+            "merchant": "Le, Hardy and Flores",
+            "time": "2025-02-24T13:41:29.437769",
+            "location": "Jacksonshire",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 22,
+            "user_id": "garciagina",
+            "amount": 4778.73,
+            "transaction_type": "transfer",
+            "merchant": "Callahan PLC",
+            "time": "2025-03-01T13:41:29.446865",
+            "location": "East Stephanie",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 23,
+            "user_id": "joshua94",
+            "amount": 3091.73,
+            "transaction_type": "transfer",
+            "merchant": "Kelly-Andrews",
+            "time": "2025-03-15T13:41:29.447545",
+            "location": "North James",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 24,
+            "user_id": "vnguyen",
+            "amount": 1214.94,
+            "transaction_type": "withdrawal",
+            "merchant": "Jimenez Inc",
+            "time": "2025-03-05T13:41:29.448077",
+            "location": "North Markberg",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 25,
+            "user_id": "bevans",
+            "amount": 4153.45,
+            "transaction_type": "transfer",
+            "merchant": "Perry Group",
+            "time": "2025-02-19T13:41:29.448638",
+            "location": "North Stephanie",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 26,
+            "user_id": "garcialaura",
+            "amount": 4365.71,
+            "transaction_type": "payment",
+            "merchant": "Marquez, Fox and Hampton",
+            "time": "2025-03-04T13:41:29.450157",
+            "location": "East Bryan",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 27,
+            "user_id": "richardsoncharles",
+            "amount": 3231.04,
+            "transaction_type": "transfer",
+            "merchant": "Benson, Yu and Phillips",
+            "time": "2025-03-02T13:41:29.451733",
+            "location": "East Sharonview",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 28,
+            "user_id": "ian67",
+            "amount": 2134.81,
+            "transaction_type": "transfer",
+            "merchant": "Flowers PLC",
+            "time": "2025-03-13T13:41:29.452363",
+            "location": "Wilsontown",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 29,
+            "user_id": "mullinsgregory",
+            "amount": 2764.93,
+            "transaction_type": "withdrawal",
+            "merchant": "Bowers, Adams and Gordon",
+            "time": "2025-03-03T13:41:29.453693",
+            "location": "Kingburgh",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 30,
+            "user_id": "samuel70",
+            "amount": 1427.86,
+            "transaction_type": "transfer",
+            "merchant": "Simpson-Richardson",
+            "time": "2025-02-20T13:41:29.455745",
+            "location": "East Linda",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 31,
+            "user_id": "kennethnicholson",
+            "amount": 2978.32,
+            "transaction_type": "transfer",
+            "merchant": "Flores Inc",
+            "time": "2025-03-09T13:41:29.456554",
+            "location": "Whiteheadchester",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 32,
+            "user_id": "clarkdeborah",
+            "amount": 3274.58,
+            "transaction_type": "transfer",
+            "merchant": "Holmes-Mullins",
+            "time": "2025-03-03T13:41:29.458222",
+            "location": "Fletcherstad",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 33,
+            "user_id": "tsanders",
+            "amount": 2082.52,
+            "transaction_type": "withdrawal",
+            "merchant": "Nash and Sons",
+            "time": "2025-02-15T13:41:29.460595",
+            "location": "South Tara",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 34,
+            "user_id": "bbailey",
+            "amount": 1027.16,
+            "transaction_type": "transfer",
+            "merchant": "Phillips, Gutierrez and Nguyen",
+            "time": "2025-03-09T13:41:29.464508",
+            "location": "New Jennifer",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 35,
+            "user_id": "patriciawong",
+            "amount": 3105.58,
+            "transaction_type": "withdrawal",
+            "merchant": "Owens, Ochoa and Schultz",
+            "time": "2025-03-06T13:41:29.469687",
+            "location": "South Connor",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 36,
+            "user_id": "shawnparsons",
+            "amount": 3853.88,
+            "transaction_type": "withdrawal",
+            "merchant": "Buck, Crosby and Patrick",
+            "time": "2025-02-25T13:41:29.470707",
+            "location": "New Kevin",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 37,
+            "user_id": "atkinsonsandra",
+            "amount": 3270.14,
+            "transaction_type": "payment",
+            "merchant": "Saunders and Sons",
+            "time": "2025-03-01T13:41:29.474466",
+            "location": "New Annbury",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 38,
+            "user_id": "nicholasdavis",
+            "amount": 1860.75,
+            "transaction_type": "payment",
+            "merchant": "Maxwell-Beck",
+            "time": "2025-03-01T13:41:29.476420",
+            "location": "South Kimville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 39,
+            "user_id": "laurajackson",
+            "amount": 1516.74,
+            "transaction_type": "transfer",
+            "merchant": "Vang LLC",
+            "time": "2025-02-23T13:41:29.477266",
+            "location": "Samueltown",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 40,
+            "user_id": "dennisjones",
+            "amount": 2701.51,
+            "transaction_type": "payment",
+            "merchant": "Heath LLC",
+            "time": "2025-03-01T13:41:29.478159",
+            "location": "Edwardsmouth",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 41,
+            "user_id": "jessica11",
+            "amount": 1605.72,
+            "transaction_type": "transfer",
+            "merchant": "Cochran Group",
+            "time": "2025-03-06T13:41:29.479016",
+            "location": "Hesterville",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 42,
+            "user_id": "tylerchang",
+            "amount": 3968.85,
+            "transaction_type": "withdrawal",
+            "merchant": "Perez, Cardenas and Parker",
+            "time": "2025-02-15T13:41:29.480230",
+            "location": "West Cathyside",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 43,
+            "user_id": "kimberly26",
+            "amount": 1820.24,
+            "transaction_type": "withdrawal",
+            "merchant": "Stein, Hartman and Gutierrez",
+            "time": "2025-02-17T13:41:29.481010",
+            "location": "New Madisonshire",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 44,
+            "user_id": "keithboyd",
+            "amount": 4588.22,
+            "transaction_type": "payment",
+            "merchant": "Patel Ltd",
+            "time": "2025-03-15T13:41:29.481664",
+            "location": "East Josephchester",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 45,
+            "user_id": "katherinereyes",
+            "amount": 3532.76,
+            "transaction_type": "withdrawal",
+            "merchant": "Soto-James",
+            "time": "2025-02-17T13:41:29.482441",
+            "location": "Emilyton",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 46,
+            "user_id": "victoriawade",
+            "amount": 129.2,
+            "transaction_type": "withdrawal",
+            "merchant": "Rice-Bailey",
+            "time": "2025-03-03T13:41:29.483237",
+            "location": "Barryville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 47,
+            "user_id": "gabriellegarza",
+            "amount": 2193.65,
+            "transaction_type": "withdrawal",
+            "merchant": "Jones Group",
+            "time": "2025-03-06T13:41:29.483846",
+            "location": "Reedborough",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 48,
+            "user_id": "samanthasandoval",
+            "amount": 3448.11,
+            "transaction_type": "withdrawal",
+            "merchant": "Hampton LLC",
+            "time": "2025-03-07T13:41:29.484526",
+            "location": "Danielstad",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 49,
+            "user_id": "darrellchavez",
+            "amount": 2024.16,
+            "transaction_type": "transfer",
+            "merchant": "Ortiz, Nguyen and Williams",
+            "time": "2025-03-15T13:41:29.485467",
+            "location": "Port Danielstad",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 50,
+            "user_id": "michael77",
+            "amount": 2281.15,
+            "transaction_type": "withdrawal",
+            "merchant": "Nunez-Walters",
+            "time": "2025-02-21T13:41:29.486079",
+            "location": "Andrewville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 51,
+            "user_id": "blairpatricia",
+            "amount": 2084.9,
+            "transaction_type": "withdrawal",
+            "merchant": "Johnson, Bryan and Turner",
+            "time": "2025-03-07T13:41:29.487010",
+            "location": "Ashleyton",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 52,
+            "user_id": "qcortez",
+            "amount": 3362.73,
+            "transaction_type": "transfer",
+            "merchant": "Miller Group",
+            "time": "2025-02-20T13:41:29.487556",
+            "location": "North Anthonystad",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 53,
+            "user_id": "john45",
+            "amount": 2574.06,
+            "transaction_type": "withdrawal",
+            "merchant": "Weiss and Sons",
+            "time": "2025-03-09T13:41:29.488013",
+            "location": "New Kristopherburgh",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 54,
+            "user_id": "dlewis",
+            "amount": 3039.82,
+            "transaction_type": "transfer",
+            "merchant": "Mccoy-Adams",
+            "time": "2025-03-07T13:41:29.488653",
+            "location": "Lake Johnburgh",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 55,
+            "user_id": "melissa63",
+            "amount": 4213.67,
+            "transaction_type": "transfer",
+            "merchant": "Wu-Morgan",
+            "time": "2025-03-11T13:41:29.489281",
+            "location": "Conradmouth",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 56,
+            "user_id": "davisjill",
+            "amount": 3642.26,
+            "transaction_type": "withdrawal",
+            "merchant": "Young, Perez and Heath",
+            "time": "2025-03-13T13:41:29.490205",
+            "location": "South Jamesville",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 57,
+            "user_id": "william23",
+            "amount": 1371.1,
+            "transaction_type": "withdrawal",
+            "merchant": "Casey-Rodgers",
+            "time": "2025-02-24T13:41:29.490820",
+            "location": "Heberthaven",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 58,
+            "user_id": "delliott",
+            "amount": 1815.39,
+            "transaction_type": "transfer",
+            "merchant": "Hernandez, Adkins and Gilbert",
+            "time": "2025-03-03T13:41:29.491650",
+            "location": "Lewismouth",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 59,
+            "user_id": "kimberly18",
+            "amount": 4594.56,
+            "transaction_type": "withdrawal",
+            "merchant": "Chandler, Martinez and Lee",
+            "time": "2025-02-26T13:41:29.492431",
+            "location": "Jenkinsport",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 60,
+            "user_id": "zchaney",
+            "amount": 4547.01,
+            "transaction_type": "transfer",
+            "merchant": "Koch-Huber",
+            "time": "2025-03-10T13:41:29.493346",
+            "location": "Port Tanya",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 61,
+            "user_id": "elizabethanderson",
+            "amount": 3383.19,
+            "transaction_type": "withdrawal",
+            "merchant": "Mcclure-Tapia",
+            "time": "2025-03-14T13:41:29.495299",
+            "location": "Angelamouth",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 62,
+            "user_id": "zsnyder",
+            "amount": 1218.11,
+            "transaction_type": "withdrawal",
+            "merchant": "Smith LLC",
+            "time": "2025-02-15T13:41:29.495903",
+            "location": "North Michael",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 63,
+            "user_id": "benjamin23",
+            "amount": 897.28,
+            "transaction_type": "withdrawal",
+            "merchant": "Martinez Group",
+            "time": "2025-02-22T13:41:29.496727",
+            "location": "Loriton",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 64,
+            "user_id": "gentrymark",
+            "amount": 4416.65,
+            "transaction_type": "payment",
+            "merchant": "Wright, Robinson and Tapia",
+            "time": "2025-02-17T13:41:29.499994",
+            "location": "Lake Mariachester",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 65,
+            "user_id": "garciamonica",
+            "amount": 2716.85,
+            "transaction_type": "transfer",
+            "merchant": "Mason, Hunter and Woods",
+            "time": "2025-02-27T13:41:29.501964",
+            "location": "South Jenniferfurt",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 66,
+            "user_id": "maria17",
+            "amount": 2783.94,
+            "transaction_type": "withdrawal",
+            "merchant": "Deleon, Johnson and Williams",
+            "time": "2025-03-03T13:41:29.504061",
+            "location": "Valenciatown",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 67,
+            "user_id": "jonesronald",
+            "amount": 531.95,
+            "transaction_type": "transfer",
+            "merchant": "Thompson-Todd",
+            "time": "2025-02-13T13:41:29.508727",
+            "location": "Mirandabury",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 68,
+            "user_id": "joneswilliam",
+            "amount": 2643.36,
+            "transaction_type": "transfer",
+            "merchant": "Jackson Group",
+            "time": "2025-03-08T13:41:29.509381",
+            "location": "Gonzalezburgh",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 69,
+            "user_id": "wendy21",
+            "amount": 4120.92,
+            "transaction_type": "transfer",
+            "merchant": "Beasley-Barton",
+            "time": "2025-02-19T13:41:29.510035",
+            "location": "New David",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 70,
+            "user_id": "chickman",
+            "amount": 4803.54,
+            "transaction_type": "withdrawal",
+            "merchant": "Avila, Kirby and Peck",
+            "time": "2025-02-23T13:41:29.513149",
+            "location": "Jeffreytown",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 71,
+            "user_id": "qduarte",
+            "amount": 4082.89,
+            "transaction_type": "withdrawal",
+            "merchant": "Sanford, Torres and Brown",
+            "time": "2025-02-24T13:41:29.514783",
+            "location": "Lake Johnnyfurt",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 72,
+            "user_id": "whernandez",
+            "amount": 3322.69,
+            "transaction_type": "payment",
+            "merchant": "Davis LLC",
+            "time": "2025-03-05T13:41:29.515597",
+            "location": "Walterside",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 73,
+            "user_id": "melanie75",
+            "amount": 3442.47,
+            "transaction_type": "transfer",
+            "merchant": "Chase LLC",
+            "time": "2025-03-01T13:41:29.516355",
+            "location": "New Jacob",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 74,
+            "user_id": "lewishannah",
+            "amount": 3015.7,
+            "transaction_type": "withdrawal",
+            "merchant": "White, Bennett and Knox",
+            "time": "2025-02-14T13:41:29.517784",
+            "location": "West Marcusport",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 75,
+            "user_id": "kyle04",
+            "amount": 4881.57,
+            "transaction_type": "withdrawal",
+            "merchant": "Craig-Gill",
+            "time": "2025-02-16T13:41:29.519048",
+            "location": "Buckleymouth",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 76,
+            "user_id": "lisa85",
+            "amount": 2356.71,
+            "transaction_type": "withdrawal",
+            "merchant": "Young-Fisher",
+            "time": "2025-03-03T13:41:29.520039",
+            "location": "Thomasview",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 77,
+            "user_id": "jayryan",
+            "amount": 285.91,
+            "transaction_type": "transfer",
+            "merchant": "Stephens LLC",
+            "time": "2025-03-03T13:41:29.521466",
+            "location": "West Christyburgh",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 78,
+            "user_id": "matthew61",
+            "amount": 589.75,
+            "transaction_type": "payment",
+            "merchant": "Hartman Inc",
+            "time": "2025-02-24T13:41:29.522401",
+            "location": "West Patrickchester",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 79,
+            "user_id": "janicescott",
+            "amount": 3775.29,
+            "transaction_type": "withdrawal",
+            "merchant": "Zimmerman, Christian and Haas",
+            "time": "2025-03-10T13:41:29.524088",
+            "location": "Elizabethton",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 80,
+            "user_id": "shermanchristopher",
+            "amount": 337.57,
+            "transaction_type": "transfer",
+            "merchant": "Martin, Nolan and Roth",
+            "time": "2025-03-12T13:41:29.525442",
+            "location": "New Dylan",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 81,
+            "user_id": "velasquezsteven",
+            "amount": 248.42,
+            "transaction_type": "payment",
+            "merchant": "Curry and Sons",
+            "time": "2025-03-15T13:41:29.526395",
+            "location": "East Donna",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 82,
+            "user_id": "christine51",
+            "amount": 775.28,
+            "transaction_type": "withdrawal",
+            "merchant": "Cain and Sons",
+            "time": "2025-03-08T13:41:29.527080",
+            "location": "Pinedafurt",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 83,
+            "user_id": "xaviersmith",
+            "amount": 1277.55,
+            "transaction_type": "withdrawal",
+            "merchant": "Barnes, Luna and Gonzales",
+            "time": "2025-03-11T13:41:29.528482",
+            "location": "North Emilyshire",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 84,
+            "user_id": "tracymercado",
+            "amount": 2241.8,
+            "transaction_type": "withdrawal",
+            "merchant": "Brown-Scott",
+            "time": "2025-03-09T13:41:29.529519",
+            "location": "New Amy",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 85,
+            "user_id": "cheyenne46",
+            "amount": 4302.47,
+            "transaction_type": "payment",
+            "merchant": "Marquez Group",
+            "time": "2025-02-28T13:41:29.530333",
+            "location": "Connerland",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 86,
+            "user_id": "sawyertaylor",
+            "amount": 3910.85,
+            "transaction_type": "withdrawal",
+            "merchant": "Mitchell-Weeks",
+            "time": "2025-02-23T13:41:29.531430",
+            "location": "Williamsstad",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 87,
+            "user_id": "cynthiamaldonado",
+            "amount": 3950.66,
+            "transaction_type": "payment",
+            "merchant": "Walters Ltd",
+            "time": "2025-02-19T13:41:29.532112",
+            "location": "Markborough",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 88,
+            "user_id": "igarcia",
+            "amount": 3211.51,
+            "transaction_type": "payment",
+            "merchant": "Decker, Butler and Foley",
+            "time": "2025-02-21T13:41:29.532941",
+            "location": "Geraldchester",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 89,
+            "user_id": "wolfechloe",
+            "amount": 2619.73,
+            "transaction_type": "payment",
+            "merchant": "Jenkins Ltd",
+            "time": "2025-03-07T13:41:29.533620",
+            "location": "Port Rebekahport",
+            "is_fraudulent": false
+        },
+        {
+            "transaction_id": 90,
+            "user_id": "vhill",
+            "amount": 442.64,
+            "transaction_type": "withdrawal",
+            "merchant": "Yoder Inc",
+            "time": "2025-02-25T13:41:29.534136",
+            "location": "Reginaldmouth",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 91,
+            "user_id": "zyoung",
+            "amount": 934.11,
+            "transaction_type": "transfer",
+            "merchant": "Stanton Inc",
+            "time": "2025-03-03T13:41:29.534664",
+            "location": "South Jamesbury",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 92,
+            "user_id": "perezricky",
+            "amount": 4794.42,
+            "transaction_type": "payment",
+            "merchant": "Haney PLC",
+            "time": "2025-02-20T13:41:29.535330",
+            "location": "Holmeston",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 93,
+            "user_id": "nicholasanthony",
+            "amount": 2039.81,
+            "transaction_type": "payment",
+            "merchant": "Smith, Sanchez and Jones",
+            "time": "2025-02-25T13:41:29.536271",
+            "location": "Dennisside",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 94,
+            "user_id": "stevencabrera",
+            "amount": 1525.82,
+            "transaction_type": "withdrawal",
+            "merchant": "Smith Ltd",
+            "time": "2025-02-21T13:41:29.536852",
+            "location": "Port Jordanland",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 95,
+            "user_id": "bryantsamuel",
+            "amount": 246.7,
+            "transaction_type": "withdrawal",
+            "merchant": "Farley PLC",
+            "time": "2025-02-28T13:41:29.540215",
+            "location": "Stephanieton",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 96,
+            "user_id": "bradleykyle",
+            "amount": 897.71,
+            "transaction_type": "withdrawal",
+            "merchant": "Branch Inc",
+            "time": "2025-03-12T13:41:29.540858",
+            "location": "Tylerstad",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 97,
+            "user_id": "brianroberts",
+            "amount": 1637.74,
+            "transaction_type": "withdrawal",
+            "merchant": "Murphy-Ramsey",
+            "time": "2025-03-03T13:41:29.541620",
+            "location": "Matthewfurt",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 98,
+            "user_id": "sgreen",
+            "amount": 4999.05,
+            "transaction_type": "transfer",
+            "merchant": "Hall-Smith",
+            "time": "2025-03-02T13:41:29.542305",
+            "location": "Johnside",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 99,
+            "user_id": "patriciacox",
+            "amount": 4417.46,
+            "transaction_type": "withdrawal",
+            "merchant": "Walter-Lawson",
+            "time": "2025-02-26T13:41:29.543064",
+            "location": "West David",
+            "is_fraudulent": true
+        },
+        {
+            "transaction_id": 100,
+            "user_id": "kayla52",
+            "amount": 1447.76,
+            "transaction_type": "transfer",
+            "merchant": "Macdonald, Davidson and Elliott",
+            "time": "2025-02-27T13:41:29.543842",
+            "location": "South Sean",
+            "is_fraudulent": true
+        }
+    ]
+}
