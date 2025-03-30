@@ -103,5 +103,5 @@ Member 4 - Role
 
 ---
 **Author:** Shailendra Rai
-**GitHub:** [YourUsername](https://github.com/rishurai123)
+**GitHub:** [rishurai123](https://github.com/rishurai123)
 
