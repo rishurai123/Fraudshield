@@ -87,13 +87,11 @@ If you would like to contribute:
   
 Team Members
 
-Member 1 Shailendra Rai  - 
+Shahil Ahmad- Ui/Ux Designer 
+Andleena Ameer- Team lead & Domain expert 
+Shailendra Kumar Rai- backend & Dashboard developer 
+Ismail Azeem- Frontend 
 
-Member 2 - Role
-
-Member 3 - Role
-
-Member 4 - Role
 
 
 ## Future Plans
